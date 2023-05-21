@@ -7,6 +7,6 @@
 > 21:00
 ### 미팅에서 본인이 푼, 또는 못푼 문제를 설명. 
 ### 코드리뷰 자료는 /review 디렉터리에 업로드 할 것. 
-### 미팅이 아니더라도 본인이 푼 문제는 상시 디렉터리에 업로드할 것. 
+### 미팅이 아니더라도 본인이 푼 문제는 상시 디렉터리에 업로드 할 것. 
 # Reference
 https://github.com/gyoogle/tech-interview-for-developer
